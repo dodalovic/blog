@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software patterns on Dusan Odalovic</title>
+    <link>https://dodalovic.github.io/tags/software-patterns/</link>
+    <description>Recent content in software patterns on Dusan Odalovic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 30 Jul 2017 13:35:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://dodalovic.github.io/tags/software-patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zero boilerplate implementing state pattern in kotlin</title>
+      <link>https://dodalovic.github.io/posts/2017/07/zero-boilerplate-implementing-state-pattern-in-kotlin/</link>
+      <pubDate>Sun, 30 Jul 2017 13:35:00 +0100</pubDate>
+      
+      <guid>https://dodalovic.github.io/posts/2017/07/zero-boilerplate-implementing-state-pattern-in-kotlin/</guid>
+      <description>State pattern is a pretty nice solution for solving problems related to changing behavior of some component(class) at runtime, which varies depending on current state of that object. Clients of our class having dynamic behavior have an impression that, upon interaction with that class, it seems like there’s different implementation of that object as of that interaction. There’s no magic involved – we’re just using composition, and our dynamic object just delegates call to State object it encapsulates.</description>
+    </item>
+    
+    <item>
+      <title>Decorator pattern in kotlin</title>
+      <link>https://dodalovic.github.io/posts/2017/07/decorator-pattern-in-kotlin/</link>
+      <pubDate>Sun, 23 Jul 2017 13:35:00 +0100</pubDate>
+      
+      <guid>https://dodalovic.github.io/posts/2017/07/decorator-pattern-in-kotlin/</guid>
+      <description>If you feel curious how would an implementation of decorator design pattern look like in Kotlin, this might be the right place for you. This example is just a very basic thing that you then tweak until it’s perfect. Pattern definition can be found at Wiki, but what’s important is that you can compose chain of decorators at runtime and in such a way – you can control runtime behavior of your system.</description>
+    </item>
+    
+  </channel>
+</rss>
