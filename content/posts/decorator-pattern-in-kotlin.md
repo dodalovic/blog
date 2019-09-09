@@ -17,7 +17,7 @@ it’s perfect. Pattern definition can be found at [Wiki](https://en.wikipedia.o
  important is that you can compose chain of decorators at runtime and in such a way – you can control runtime 
  behavior of your system.
 
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 package patterns
 
 interface CarService {
@@ -57,3 +57,5 @@ Doing basic checkup ... DONE
 Washing car ... DONE
 Cleaning car inside ... DONE
 {{</highlight>}}
+
+In case you liked this post – feel free to subscribe to get more interesting content coming soon.

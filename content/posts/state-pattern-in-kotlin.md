@@ -25,7 +25,7 @@ Here, `CoffeeMachine` is our dynamic class, and it encapsulates instance of our 
 We initially set `Off` implementation of `State` when starting our coffee machine. Then, our implementations 
 transition the state, based on different actions being performed.
 
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 package patterns.state
 
 class CoffeeMachine {
@@ -123,3 +123,4 @@ fun main(args: Array<String>) {
 }
 {{</highlight>}}
 
+In case you liked this post – feel free to subscribe to get more interesting content coming soon.

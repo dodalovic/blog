@@ -15,7 +15,7 @@ tags:
 Constructors are regular functions that give a chance to developer to initialise state of class instance. 
 They are completely optional, and it's perfectly valid to have this, although not so useful :smiley:: 
                      
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 class Person
 {{</highlight>}}
 
@@ -30,7 +30,7 @@ constructors in `Kotlin`:
 Primary constructors give us a chance to initialise state of our instance with very clean syntax. 
 An example of the class having primary constructor would be:
 
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 class PersonWithPrimaryConstructorOnly(val name: String, val age: Int) {
     override fun toString() = "{name : '$name', age: $age}"
 }
@@ -40,7 +40,7 @@ Primary constructor sits right next to the class name itself. Having `val` or `v
 constructor parameters basically transforms passed arguments to class properties. Similar, but more 
 verbose, and less preferred way to accomplish the same, would look like:
 
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 class PersonWithPrimaryConstructorVerbose1(name: String, age: Int) {
     var name: String = name
     var age: Int = age
@@ -50,7 +50,7 @@ class PersonWithPrimaryConstructorVerbose1(name: String, age: Int) {
 
 or:
 
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 class PersonWithPrimaryConstructorVerbose2(name: String, age: Int) {
     var name: String
     var age: Int
@@ -72,7 +72,7 @@ where the compiler generates this mappings for us.
 Visibility in `Kotlin` is `public` by default, which applies to the constructors as well. In case we want to change 
 it to, let's say, `private` we can do it like this: 
 
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 class PersonWithPrimaryConstructorOnly private constructor(val name: String, val age: Int) {
     override fun toString() = "{name : '$name', age: $age}"
 }
@@ -83,7 +83,7 @@ class PersonWithPrimaryConstructorOnly private constructor(val name: String, val
 Secondary constructors are any constructors defined that are not defined as primary constructors. An example 
 would be: 
 
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 class PersonWithOnlySecondaryConstructor {
     private var name: String
     private var age: Int
@@ -104,10 +104,10 @@ class PersonWithOnlySecondaryConstructor {
 We've got two constructors here. The first one, with only one, `name` parameter, just sets the name and initiates `age` to `0`. 
 The second one, with additional `age` argument calls the first one with: 
 
-{{<highlight kotlin "linenos=table">}}
+{{<highlight kotlin>}}
 : this(name)
 {{</highlight>}}
 
 and additionally sets age property explicitly.
 
-
+In case you liked this post – feel free to subscribe to get more interesting content coming soon.
