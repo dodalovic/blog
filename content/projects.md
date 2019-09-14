@@ -1,11 +1,9 @@
 ---
-title: "Works"
+title: "Projects"
 date: 2019-02-02T11:34:00+01:00
 draft: false
 author: Dusan Odalovic
 ---
-
-## Projects
 
 * **[books-api](https://github.com/dodalovic/books-api)**   
     Sample app skeleton demonstrating combined Spring Boot 2 / Kotlin / MongoDB

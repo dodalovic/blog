@@ -66,6 +66,6 @@ menu:
     - identifier: posts
       name: Posts
       url: posts/
-    - identifier: works
-      name: Works
-      url: works/
+    - identifier: projects
+      name: Projects
+      url: projects/
