@@ -21,6 +21,7 @@ author:
   name: Dusan Odalovic
 blackfriday:
   hrefTargetBlank: true
+  plainIDAnchors: false
 params:
   dateform: 'Jan 2, 2006'
   dateformShort: Jan 2
