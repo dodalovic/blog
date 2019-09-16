@@ -10,8 +10,9 @@ tags:
   - software patterns
 ---
 
-So, in case you haven’t read the first part in this series, which is giving some basic introduction to the idea of 
-JUnit testing – go ahead, I’ll wait till you’re back so that we can proceed with the next steps.
+So, in case you haven’t read [the first part](/posts/2017/07/junit-testing-part-i-setup-with-simple-example/) in this series, 
+which is giving some basic introduction to the idea of `JUnit` testing – go ahead, I’ll wait till you’re back so that we can 
+proceed with the next steps.
 
 :woman: **Yes, I’ve got the basics, go on.**
 
