@@ -103,7 +103,7 @@ In this phase, we may want to do some of the following things:
   ...
   ``` 
 
-## Naming tests methods: 
+## Naming tests methods 
 
 One of the "patterns" I use when naming my test methods is something like: 
 
