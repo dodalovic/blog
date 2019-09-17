@@ -110,10 +110,10 @@ It starts with the method name we test, `getPrice`, continues with the descripti
 
 ## Things to remember
 
-- :ballot_box_with_check: Each test method should be composed out of three code blocks - **Arrange**, **Act**, and **Assert**
-- :ballot_box_with_check: We should name our test methods so that it's enough to understand the test just be reading test method 
+- :heavy_check_m Each test method should be composed out of three code blocks - **Arrange**, **Act**, and **Assert**
+- :heavy_check_m We should name our test methods so that it's enough to understand the test just be reading test method 
 name
-- :ballot_box_with_check: We should have multiple scenarios where we execute our method, with various emulated environments which 
+- :heavy_check_m We should have multiple scenarios where we execute our method, with various emulated environments which 
 our function can exhibit during regular application usage
 
 Until next time! 
