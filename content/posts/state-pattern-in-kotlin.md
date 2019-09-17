@@ -9,6 +9,7 @@ tags:
   - kotlin
   - software development
   - software patterns
+  - featured
 ---
 
 [*State pattern*](https://en.wikipedia.org/wiki/State_pattern) is a pretty nice solution for solving

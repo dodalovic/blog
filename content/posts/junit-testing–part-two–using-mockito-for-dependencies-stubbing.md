@@ -8,6 +8,7 @@ images:
 tags:
   - testing
   - software patterns
+  - featured
 ---
 
 So, in case you haven’t read [the first part](/posts/2017/07/junit-testing-part-i-setup-with-simple-example/) in this series, 

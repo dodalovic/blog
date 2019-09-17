@@ -5,6 +5,8 @@ author: Dusan Odalovic
 draft: false
 toc: false
 images:
+tags:
+  - featured
 ---
 
 One of very neat features of Intellij IDEA that I came across is injecting language / reference feature into `String` object. Let's 

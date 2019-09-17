@@ -9,6 +9,7 @@ tags:
   - java
   - spring
   - spring boot
+  - featured
 ---
 
 I’ve created a sample `Spring Boot` app that demonstrates useful scenario of asynchronous publish / subscribe model. It could be 

@@ -8,6 +8,7 @@ images:
 tags:
   - mongodb
   - software development
+  - featured
 ---
 
 Ladies and gents, I’m just posting one short reminder to myself and anyone keen to find out how do

@@ -9,6 +9,7 @@ tags:
   - kotlin
   - software development
   - software patterns
+  - featured
 ---
 
 If you feel curious how would an implementation of decorator design pattern look like in [Kotlin](https://kotlinlang.org/), 
