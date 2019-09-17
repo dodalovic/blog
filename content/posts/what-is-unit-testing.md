@@ -1,6 +1,6 @@
 ---
 title: What is unit testing?
-date: 2019-09-17T22:54:00+01:00
+date: 2019-09-16T22:54:00+01:00
 author: Dusan Odalovic
 draft: false
 toc: false
@@ -101,7 +101,8 @@ In this phase, we may want to do some of the following things:
   ...
   verify(taxCalculationService, times(1)).calculateTax(productID)
   ...
-  ```  
+  ``` 
+
 ## Naming tests methods: 
 
 One of the "patterns" I use when naming my test methods is something like: 
