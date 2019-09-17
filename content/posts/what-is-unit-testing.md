@@ -16,10 +16,6 @@ Unit testing allows us to test our functions in isolation, so that we can verify
 
 In general, we should plan our test method implementation to be divided in three parts: 
 
-* **Arrange** phase
-* **Act** phase
-* **Assert** phase
-
 {{< figure src="/posts/img/testing-tripple-a.jpeg" position="center" style="border-radius: 8px;" caption="Tripple A in unit testing" captionPosition="center" captionStyle="color: #4b4c4d;" >}}
 
 ## Arrange phase
