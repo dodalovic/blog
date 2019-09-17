@@ -102,4 +102,4 @@ Fairly simple!
 
 You can find source code @  [Github](https://gist.github.com/dodalovic/3356c35925589bd2be843d71a931f51a)
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
+Until next time!

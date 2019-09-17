@@ -101,4 +101,4 @@ java.lang.IllegalArgumentException: No gadget for such purpose :(
  at patterns.Factory_method.<init>(factory-method.kts:37)
 ```
 
-In case you found it interesting - feel free to subscribe for getting more interesting content.
+Until next time!

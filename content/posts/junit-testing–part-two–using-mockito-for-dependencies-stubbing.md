@@ -339,4 +339,4 @@ Yes. Although there are hacks how to make workarounds (which might lead to tests
 
 Source code can be checked out from [Github](https://github.com/dodalovic/blog-JUnit-testing)
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
+Until next time!

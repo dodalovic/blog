@@ -195,4 +195,4 @@ Persisting user [User{id=1, username='Mike', location='United States'}] to Mongo
 
 Hope you liked the post. You can find sources at [Github](https://gist.github.com/dodalovic/99aff2a2e6407f196204)
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
+Until next time!

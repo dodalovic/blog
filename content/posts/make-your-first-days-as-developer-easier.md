@@ -43,4 +43,4 @@ reality. Software bugs that we might introduce could cause people get killed in 
 calculations. It's our duty to provide excellent quality in what we do. We're well paid for what we do. Software engineering is not a 
 game (although it's fun).
 
-Those were some basic thoughts I had on my mind. I'm looking forward to any discussion to follow!
+Until next time!

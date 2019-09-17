@@ -103,6 +103,6 @@ Town built in 50 milliseconds!
 
 Source can be found @ [Github](https://gist.github.com/dodalovic/4ee9939ab645b9d9933da1b4f14edf7d)
 
-If you liked the example – don’t forget to subscribe for getting some more interesting content!
+Until next time!
 
 [^1]: Official docs of [Kotlin scripts](https://kotlinlang.org/docs/tutorials/command-line.html#using-the-command-line-to-run-scripts)

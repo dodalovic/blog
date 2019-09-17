@@ -177,4 +177,4 @@ or defined in `application.properties`.
 
 You can checkout source code from [GitHub](https://github.com/dodalovic/env-properties-demo)
 
-Hope you’ll find this useful. If so – don’t forget to subscribe to get notified of upcoming posts.
+Until next time!

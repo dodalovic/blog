@@ -106,4 +106,4 @@ fun main() {
 
 Source code can be checked out from GitHub [repository](https://github.com/dodalovic/kotlin-extension-functions)
 
-In case you liked this post – feel free to subscribe to get more interesting content coming soon.
+Until next time!

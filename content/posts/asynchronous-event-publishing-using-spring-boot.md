@@ -128,7 +128,7 @@ Demo app is using `Lombok` library[^2] to get rid of some boilerplate Java code 
 
 You can checkout source code from [GitHub](https://github.com/dodalovic/async-publish)
 
-Hope you liked this post. If so – don’t hesitate to subscribe!
+Until next time!
 
 [^1]: https://stedolan.github.io/jq/
 [^2]: https://projectlombok.org

@@ -61,4 +61,4 @@ You'll get popup such as one below, which will let you test your regex against v
 
 Go - experiment with various contexts apart from `HTML` and `RegExp` one which we showcased.
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
+Until next time!

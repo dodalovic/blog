@@ -166,4 +166,4 @@ Command output prints something like:
 I’m primary keeping this as a quick reminder to myself, but will be very happy if someone else 
 finds it useful!
 
-Stay tuned and don’t forget to subscribe!
+Until next time!

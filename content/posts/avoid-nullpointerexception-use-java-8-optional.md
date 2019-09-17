@@ -163,4 +163,4 @@ we'll first make sure to check if user's name is longer than 5 characters */
 If we're writing `API` that can in some cases return meaningful value, and in other `null`, we should, instead of returning `null` or not `null` 
 reference - return `Optional` with wrapped value or empty `Optional`. Same applies if we have some legacy code that could return `null`.
 
-Hope you enjoyed reading and I suggest further exploring `Optional` `API`.
+Until next time!

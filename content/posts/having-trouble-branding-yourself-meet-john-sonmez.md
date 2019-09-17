@@ -33,4 +33,4 @@ sign-up page.
 
 I hope you'll enjoy John's work as much as I do
 
-Stay tuned!
+Until next time!

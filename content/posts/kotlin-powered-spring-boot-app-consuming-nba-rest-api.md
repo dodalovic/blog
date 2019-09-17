@@ -166,4 +166,4 @@ Response will look something like:
 
 Sources can be found at [GitHub](https://github.com/dodalovic/kotlin-nba)
 
-I hope you enjoyed this short tutorial. In case you are interested in getting more content – don’t forget to subscribe!
+Until next time!

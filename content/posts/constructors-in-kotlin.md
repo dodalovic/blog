@@ -111,4 +111,4 @@ The second one, with additional `age` argument calls the first one with:
 
 and additionally sets age property explicitly.
 
-In case you liked this post – feel free to subscribe to get more interesting content coming soon.
+Until next time!

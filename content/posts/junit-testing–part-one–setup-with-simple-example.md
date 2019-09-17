@@ -259,5 +259,4 @@ The next post will be related to extending `JUnit` test using `Mockito` library.
 
 Hope you liked the post and feel free to download application sources at [GitHub](https://github.com/dodalovic/blog-junit-testing).
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
-
+Until next time!

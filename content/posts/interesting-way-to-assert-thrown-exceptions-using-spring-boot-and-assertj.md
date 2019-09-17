@@ -92,4 +92,4 @@ library.
 
 Let me know your thoughts!
 
-Stay tuned and don’t forget to subscribe!
+Until next time!

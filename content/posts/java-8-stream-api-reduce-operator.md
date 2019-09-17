@@ -185,4 +185,4 @@ Key takeaways
 `Reduce` operator is terminal operator that helps us extract single value from underlying stream. Accumulator function is called either `n-1` times for collection of n elements if we haven't provided 
 initial / default value as the first parameter, or `n` times - if we did (see algorithm description above).
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
+Until next time!

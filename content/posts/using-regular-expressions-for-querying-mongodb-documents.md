@@ -111,4 +111,4 @@ which would match "Jim" in our case:
 Regular expressions are sometimes the only way to go for particular problem sets, so I hope this 
 helps understanding mongodb `API`s dealing with regular expressions.
 
-Stay tuned and don’t forget to subscribe!
+Until next time!

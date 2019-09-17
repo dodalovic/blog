@@ -161,4 +161,4 @@ mock dependency our controller class has, performing `HTTP` call, and asserting 
 
 Once more, Github repo with [sources](https://github.com/dodalovic/mvc-controller-testing).
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
+Until next time!

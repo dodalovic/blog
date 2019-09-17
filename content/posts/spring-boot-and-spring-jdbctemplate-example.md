@@ -166,4 +166,4 @@ Initial call takes a bit longer, while maven downloads required dependencies, an
 
 Source code is hosted @ [Github](https://github.com/dodalovic/spring-boot-jdbc-templates)
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
+Until next time!

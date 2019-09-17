@@ -59,4 +59,4 @@ Washing car ... DONE
 Cleaning car inside ... DONE
 {{</highlight>}}
 
-In case you liked this post – feel free to subscribe to get more interesting content coming soon.
+Until next time!

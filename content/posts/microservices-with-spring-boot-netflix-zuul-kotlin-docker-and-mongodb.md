@@ -22,4 +22,4 @@ of simulates some real-life scenarios of how you might organize your service ori
 
 You can find and download source code from [GitHub](https://github.com/dodalovic/kotlin-microservices). Readme file there explains how to start & use services. 
 
-Stay tuned and, if you liked this post, don't forget to subscribe for getting more interesting content!
+Until next time!

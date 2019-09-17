@@ -39,4 +39,4 @@ can see the players squad with player details.
 
 You can download application sources at [Github](https://github.com/dodalovic/boot-soccer).
 
-Stay tuned and please – don’t forget to subscribe in case you’re eager to find out what’s coming next in upcoming posts.
+Until next time!

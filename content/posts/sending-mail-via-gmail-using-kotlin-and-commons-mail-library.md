@@ -96,4 +96,4 @@ a password in command above.
 
 Mail contain header and logo will be delivered to mail recipient you passed to java command above
 
-In case you liked this post and you’re interested in getting more content – don’t forget to subscribe!
+Until next time!
