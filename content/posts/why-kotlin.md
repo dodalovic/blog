@@ -1,6 +1,6 @@
 ---
 title: Why Kotlin?
-date: 2019-10-01T22:54:00+01:00
+date: 2019-10-04T14:54:00+01:00
 author: Dusan Odalovic
 draft: false
 toc: false
