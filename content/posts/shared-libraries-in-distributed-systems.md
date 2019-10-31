@@ -1,6 +1,6 @@
 ---
 title: Shared libraries in distributed systems
-date: 2019-10-28T11:54:00+01:00
+date: 2019-10-30T11:54:00+01:00
 author: Dusan Odalovic
 draft: false
 toc: false
