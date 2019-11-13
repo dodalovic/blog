@@ -5,16 +5,16 @@ draft: false
 author: Dusan Odalovic
 ---
 
-## Market Logic Software GmbH / Berlin, Germany
+## <span style="color:#7c8f88">Market Logic Software GmbH / Berlin, Germany</span>
 
 * *Senior software developer / Software architect (Dec 2017 - Present)* 
 
-* Design and implementation of highly scalable, resilient and elastic document processing pipelines using asynchronous architectures. 
+* Design and implementation of highly scalable, resilient and elastic document processing pipelines using asynchronous, micro-service architectures 
 * `kubernetes` `azure` `spring` `kafka` `microservices` `kotlin` `java` `mongo` `postgres`
 
 ---
 
-## Avenso GmbH / Berlin, Germany 
+## <span style="color:#7c8f88">Avenso GmbH / Berlin, Germany</span> 
 
 * *Senior software engineer (Oct 2016 - Nov 2017)*
 
@@ -23,7 +23,7 @@ author: Dusan Odalovic
 
 ---
 
-## UCANDO GmbH / Berlin, Germany
+## <span style="color:#7c8f88">UCANDO GmbH / Berlin, Germany</span>
 
 * *Senior software engineer (Dec 2014 - Oct 2016)*
 
@@ -31,7 +31,7 @@ author: Dusan Odalovic
 * Responsibilities included Hybris e-commerce platform customization combined with Open-source development (Spring, Git, Solr). Site ops experience.
 * `hybris` `git` `spring` `mongodb` `bash` `solr` `nginx` 
 
-## Ascendant technology - Avnet services / Belgrade, Serbia
+## <span style="color:#7c8f88">Ascendant technology - Avnet services / Belgrade, Serbia</span>
 
 * *Senior software engineer (Dec 2010 - Dec 2014)*
 
@@ -94,7 +94,7 @@ author: Dusan Odalovic
     
     ---
     
-## Excelus DOO / Belgrade, Serbia
+## <span style="color:#7c8f88">Excelus DOO / Belgrade, Serbia</span>
 
 * *Software engineer (Jan 2010 – Dec 2010)*
 
