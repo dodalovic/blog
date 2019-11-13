@@ -68,5 +68,5 @@ menu:
       name: Posts
       url: posts/
     - identifier: projects
-      name: Projects
-      url: projects/
+      name: Work log
+      url: work-log/
