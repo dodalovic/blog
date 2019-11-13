@@ -1,9 +1,10 @@
 ---
-title: "Work log"
 date: 2019-02-02T11:34:00+01:00
 draft: false
 author: Dusan Odalovic
 ---
+
+> Being a member of various development teams for a decade helped me brush my skills on numerous projects     
 
 ## <span style="color:#7c8f88">Market Logic Software GmbH / Berlin, Germany</span>
 

@@ -68,5 +68,5 @@ menu:
       name: Posts
       url: posts/
     - identifier: projects
-      name: Work log
-      url: work-log/
+      name: Why hiring me?
+      url: why-hiring-me/
